@@ -1,0 +1,3 @@
+Git is a distributed version control system.
+Git records changes in commits, and a commit stores a snapshot of the project.
+Before every commit we check status and diff, then commit with a clear message.
